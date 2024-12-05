@@ -1,0 +1,1 @@
+var json_ZIBAT_71 = {"type":"FeatureCollection","name":"ZIBAT_71","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"MUNICIPIO":"El Marqués","NOM_LOC":"Zibatá","POB_TOTAL_MASC":5641.0,"LAT_DECIMAL":20.68023,"LON_DECIMAL":-100.32922},"geometry":{"type":"Point","coordinates":[-100.3292234,20.68022973]}}]}
